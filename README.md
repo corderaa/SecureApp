@@ -33,6 +33,7 @@ Este proyecto es ideal para desarrolladores interesados en aprender sobre las vu
 ---
 
 ## Estructura del Proyecto
+```
 secure-notes/
 ├── src/
 │ ├── main/
@@ -47,6 +48,7 @@ secure-notes/
 │ │ └── application.yml # Configuración del modo seguro/vulnerable
 
 ---
+```
 
 ## Cómo usar
 
