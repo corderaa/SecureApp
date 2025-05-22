@@ -46,8 +46,6 @@ secure-notes/
 │ ├── resources/
 │ │ ├── templates/ # Vistas Thymeleaf
 │ │ └── application.yml # Configuración del modo seguro/vulnerable
-
----
 ```
 
 ## Cómo usar
